@@ -1,3 +1,0 @@
-/home/msherbiny/etc/problem-solving-cpp/cmake-build-debug/CMakeFiles/games.dir
-/home/msherbiny/etc/problem-solving-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/msherbiny/etc/problem-solving-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
