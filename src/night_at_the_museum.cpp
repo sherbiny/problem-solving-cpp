@@ -1,3 +1,5 @@
+/// http://codeforces.com/contest/731/problem/A
+
 #include <iostream>
 #include <string>
 #include <cmath>
