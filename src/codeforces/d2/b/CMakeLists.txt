@@ -1,0 +1,3 @@
+add_executable(decoding decoding.cpp)
+add_executable(petya_and_countryside petya_and_countryside.cpp)
+add_executable(bear_and_finding_criminals bear_and_finding_criminals.cpp)
