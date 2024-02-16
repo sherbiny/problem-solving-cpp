@@ -1,3 +1,8 @@
 add_executable(decoding decoding.cpp)
 add_executable(petya_and_countryside petya_and_countryside.cpp)
 add_executable(bear_and_finding_criminals bear_and_finding_criminals.cpp)
+add_executable(burglar_and_matches burglar_and_matches.cpp)
+add_executable(sum_of_digits sum_of_digits.cpp)
+add_executable(coins coins.cpp)
+add_executable(vanya_and_lanterns vanya_and_lanterns.cpp)
+add_executable(effective_approach effective_approach.cpp)
